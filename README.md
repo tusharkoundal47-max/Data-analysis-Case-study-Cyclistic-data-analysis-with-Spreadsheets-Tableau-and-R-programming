@@ -1,4 +1,4 @@
-# Cyclistic-data-Project-Spreadsheets-and-R-programming-
+# Data analysis Case study : Cyclistic data analysis with Spreadsheets Tableau and R programming
 Case study 1: How does a bike-share navigate speedy success? This is my practice project, that is part of the Google Data Analytics Professional Certificate helps convey my approach to analysing data.
 
 Case Study cyclistic data
