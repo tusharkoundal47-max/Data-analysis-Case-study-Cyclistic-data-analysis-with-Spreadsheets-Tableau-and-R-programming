@@ -12,7 +12,7 @@ This case study have been done on the lines of Google Data analytics program und
 3 Process
 4 Analyse
 5 Share
-6 Act.
+6 Act
 
 The following notebook conveys my approach to analysing data for the case study which  explores the business problem of a hypothetical bike-sharing service named Cyclistic.
 
